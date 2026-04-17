@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Mohanad. 🛡️
 
-<!--
-**MohanadSec/MohanadSec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a first-year Cybersecurity student. I spend most of my time breaking things in my labs just to figure out how to fix them. Currently obsessed with Linux, SOC operations, and understanding how traffic actually moves through a network.
 
-Here are some ideas to get you started:
+### 🛠 What I’m working on:
+* **Operating Systems:** Daily driving Arch Linux (learning the hard way that one wrong config breaks everything).
+* **Labs:** Working through the SOC Level 1 path on TryHackMe.
+* **Current Project:** Building out a home lab with Proxmox to simulate enterprise environments.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚡ Tech Stack:
+* **OS:** Arch Linux (i3wm / Hyprland)
+* **Scripting:** Bash (Learning Python for automation)
+* **Tools:** Nmap, Wireshark, Burp Suite (Basics)
+
+**Goal:** To move from "I think this works" to "I know why this works."
