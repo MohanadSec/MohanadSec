@@ -1,16 +1,16 @@
-# Hey, I'm Mohanad 👋
+# Hi, I'm Mohanad.
 
-I'm currently diving deep into cybersecurity with a focus on offensive security and SOC operations. I'm a big believer in "learning by breaking," which is why I live in the Linux terminal.
+I'm a Linux enthusiast and a cybersecurity student focused on the technical side of things. I don't like fluff; I like systems that work. Currently, I'm stripping everything back to basics to understand how they tick.
 
-### 🛠 What I'm working on:
-- **Daily Driver:** Arch Linux (Currently rebuilding my setup from scratch).
-- **Skill Sprint:** Mastering touch typing to keep up with my thoughts in the terminal.
-- **Language:** Grinding through Mandarin Chinese (aiming for HSK levels).
+### What I'm Hitting Right Now:
+* **Arch Linux:** Rebuilding my system from the ground up (Custom Hyprland). No install scripts, just manual rice.
+* **Languages:** Currently grinding Mandarin Chinese (Aiming for HSK levels).
+* **Skills:** Perfecting touch typing to speed up my workflow in the terminal.
 
-### 🖥 The Tech Stack:
-- **OS:** Arch Linux (i3wm / Hyprland)
-- **Scripting:** Bash, Python
-- **Tools:** Nmap, Wireshark, Burp Suite
+### The Tech Stack:
+* **OS:** Arch Linux (The only way to fly).
+* **Tools:** Git, Bash, Python (learning).
+* **Focus:** Defensive security and SOC operations.
 
 ---
-*“If it’s not broken yet, I haven't played with it enough.”*
+*“If you can’t explain it simply, you don’t understand it well enough.”*
